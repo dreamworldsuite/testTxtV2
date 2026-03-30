@@ -1,1 +1,1 @@
-buildingsV2Test2.json
+buildingsV2Test3.json
